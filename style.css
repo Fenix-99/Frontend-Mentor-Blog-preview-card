@@ -52,6 +52,7 @@ button {
   border-radius: 5px;
   margin-top: 20px;
   font-size: var(--p);
+  cursor: pointer;
 }
 .content {
   display: flex;
